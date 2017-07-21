@@ -1,0 +1,9 @@
+C:\ambiente\desafio\desafio-responsivo-api\DesafioSPA\DesafioSPA\bin\Debug\netcoreapp1.1\DesafioSPA.deps.json
+C:\ambiente\desafio\desafio-responsivo-api\DesafioSPA\DesafioSPA\bin\Debug\netcoreapp1.1\DesafioSPA.runtimeconfig.json
+C:\ambiente\desafio\desafio-responsivo-api\DesafioSPA\DesafioSPA\bin\Debug\netcoreapp1.1\DesafioSPA.runtimeconfig.dev.json
+C:\ambiente\desafio\desafio-responsivo-api\DesafioSPA\DesafioSPA\bin\Debug\netcoreapp1.1\DesafioSPA.dll
+C:\ambiente\desafio\desafio-responsivo-api\DesafioSPA\DesafioSPA\bin\Debug\netcoreapp1.1\DesafioSPA.pdb
+C:\ambiente\desafio\desafio-responsivo-api\DesafioSPA\DesafioSPA\obj\Debug\netcoreapp1.1\DesafioSPA.csprojResolveAssemblyReference.cache
+C:\ambiente\desafio\desafio-responsivo-api\DesafioSPA\DesafioSPA\obj\Debug\netcoreapp1.1\DesafioSPA.AssemblyInfo.cs
+C:\ambiente\desafio\desafio-responsivo-api\DesafioSPA\DesafioSPA\obj\Debug\netcoreapp1.1\DesafioSPA.dll
+C:\ambiente\desafio\desafio-responsivo-api\DesafioSPA\DesafioSPA\obj\Debug\netcoreapp1.1\DesafioSPA.pdb
