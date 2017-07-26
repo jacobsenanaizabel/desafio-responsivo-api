@@ -5,9 +5,8 @@ using System.Threading.Tasks;
 
 namespace DesafioSPA.Models
 {
-    public class Item : Base
+    public class Base
     {
-        public String Label { get; set; }
-        public String Url { get; set; }
+        public long Id { get; set; }
     }
 }

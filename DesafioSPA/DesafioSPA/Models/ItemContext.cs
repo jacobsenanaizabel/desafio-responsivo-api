@@ -9,11 +9,10 @@ namespace DesafioSPA.Models
 {
     public class ItemContext : DbContext
     {
-        public ItemContext(DbContextOptions<ItemContext> options)
-            : base(options)
+        public ItemContext(DbContextOptions<ItemContext> options) : base(options)
         {
         }
 
-        public DbSet<Item> TodoItems { get; set; }
+        public DbSet<Item> Item { get; set; }
     }
 }

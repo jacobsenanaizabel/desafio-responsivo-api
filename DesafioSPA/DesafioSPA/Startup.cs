@@ -9,6 +9,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.EntityFrameworkCore;
 using DesafioSPA.Models;
+using DesafioSPA.IBLL;
 namespace DesafioSPA
 {
     public class Startup
@@ -30,6 +31,7 @@ namespace DesafioSPA
         {
             // Add framework services.
             services.AddDbContext<ItemContext>(opt => opt.UseInMemoryDatabase());
+            services.AddScoped(typeof(IItemRepository), typeof(ItemRepository));
             services.AddMvc();
         }
 
