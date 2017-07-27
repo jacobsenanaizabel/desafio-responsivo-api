@@ -18,7 +18,12 @@ namespace DesafioSPA.IBLL
 
             if (_context.Item.Count() == 0)
             {
-                _context.Item.Add(new Item { Label = "Item1", Url = "www" });
+                SubItem subItemEmpty = new SubItem
+                {
+                    Label = "subcategoria",
+                    Url = "#/categoria/subcategoria"
+                };
+                _context.Item.Add(new Item { Label = "Categoria", Url = "#/categoria",  SubItm = subItemEmpty });
                 _context.SaveChanges();
             }
             
